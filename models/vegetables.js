@@ -12,7 +12,7 @@ const vegetables = [
     {
         name:'Collard Greens',
         color: 'green',
-        readyToEat: false
+        readyToEat: true
     },
     {
         name:'Spinach',
@@ -20,9 +20,9 @@ const vegetables = [
         readyToEat: true
     },
     {
-        name:'kale',
-        color: 'yellow',
-        readyToEat: false
+        name:'Bitter Leaf (Vernonia amygdalina )',
+        color: 'green',
+        readyToEat: true
     }
 ];  
 
